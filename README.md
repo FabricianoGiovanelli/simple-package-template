@@ -1,27 +1,26 @@
-# package_name
+# idade_calculator
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package idade_calculator is used to:
+	- Calculador de idade
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install idade_calculator
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from idade_calculator import idade_calculator
+idade_calculator.idade_calculator()
 ```
 
 ## Author
-My_name
+Giovanelli
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -1,0 +1,2 @@
+#Não há requerimentos adicionais para o funcionamento do código.
+# O código utiliza apenas bibliotecas padrão do Python.
